@@ -2,4 +2,4 @@ FROM python:3.7-alpine
 COPY . /app
 WORKDIR /app
 RUN pip install .
-CMD ["project_name"]
+CMD ["extreme_calculator_0.1_ui_test"]

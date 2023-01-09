@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for extreme_calculator_0.1_ui_test."""
 
 from .cli import main  # pragma: no cover
 

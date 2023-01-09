@@ -1,4 +1,4 @@
-"""CLI interface for project_name project.
+"""CLI interface for extreme_calculator_0.1_ui_test project.
 
 Be creative! do whatever you want!
 
@@ -12,7 +12,7 @@ Be creative! do whatever you want!
 def main():  # pragma: no cover
     """
     The main function executes on commands:
-    `python -m project_name` and `$ project_name `.
+    `python -m extreme_calculator_0.1_ui_test` and `$ extreme_calculator_0.1_ui_test `.
 
     This is your program's entry point.
 
